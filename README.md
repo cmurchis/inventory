@@ -3,8 +3,9 @@
 | Model    | color   |  storage  |   carrier lock    |   cracks  |   last 4 serial   |    |
 | -------- | ------- |   -------- | ------- |   -------- | ------- |   -------- |  
 |  15 Plus		|		Pink				|		128 GB		|		Locked ATT			| 		No					|	DWM9	|  |
-|  15 Plus		|		Pink				|		512 GB		|		NO RESTRICTIONS			| 		No					|	MX2H	|	 
+|  15 Plus		|		Pink				|		512 GB		|		NO RESTRICTIONS			| 		No					|	MX2H	|	 HOLDING FOR PAYTON |
 | 14 Pro Max	|		Smoke Grey		|		512 GB		|		NO RESTRICTIONS	|		small crack on front	|	L9RJ	|	SOLD |
+| 15 Pro Max  | Smoke Grey		|		512 GB		|		NO RESTRICTIONS	|		 No	|	L9RJ	|	 HOLDING FOR PAYTON  |
 |  14 Pro Max	|		Smoke Grey		|		128 GB		|		NO RESTRICTIONS	|		 NO 	|	7YJ4	|	  	|
 |  14 Pro	|		Smoke Grey		|		128 GB		|		NO RESTRICTIONS	|		 NO 	|	D6Y0	|	  	|
 |  14 PLUS	|		YELLOW		|		128 GB		|		Locked ATT		|		 NO 	|	7XGJ	|	  	|
